@@ -10,3 +10,7 @@ To download, go to the [releases tab](https://github.com/TTTools/clothing-previe
     * That means you can just hit save in photoshop whenever you make a change, then press the reload texture button, and you wont have to export to a png or jpeg every time
 * When you have made a change to the source texture file, press the RELOAD TEXTURES button to see the changes
 * You can view how it will look on the different model types
+
+
+## Extras
+* You can enable experimental features by running the application executable with the --experimental command argument
