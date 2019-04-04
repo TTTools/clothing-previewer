@@ -17,5 +17,5 @@ To download, go to the [releases tab](https://github.com/TTTools/clothing-previe
 
 ## About
 * These tools were originally developed for Clash, but I have since decided to release them
-* I have disabled all but the clothing previewer by default for the time being, as I have some unexpected issues that came up with upgrading to a newer version of the engine
+* I have disabled all but the clothing previewer by default for the time being, as I have some unexpected issues that came up with upgrading to a newer version of the engine (You can still try to use them by using the --experimental launch option)
 * The tools are developed using a modified build of Panda3D 1.10.0 (it will likely be updated to the lastest soon) and is written in Python 3.7
