@@ -1,4 +1,4 @@
-# Clash Creative Tools
+# Toontown Creative Tools
 
 To download, go to the [releases tab](https://github.com/TTTools/clothing-previewer/releases)
 
