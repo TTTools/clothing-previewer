@@ -15,6 +15,7 @@ To download, go to the [releases tab](https://github.com/TTTools/clothing-previe
 
 ## Extras
 * You can enable experimental features by running the application executable with the --experimental command argument
+  * Most of these features will NOT work and will just crash upon launch due to the reason below
 
 ## About
 * These tools were originally developed for Clash, but I have since decided to release them
